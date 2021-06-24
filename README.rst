@@ -24,8 +24,6 @@ The theoretical foundation of the decomposition is described in
  -  M.A. Mendez, A. Gosset, J.-M. Buchlin, Experimental Analysis of the Stability of the Jet Wiping Process, Part II: Multiscale Modal Analysis of the Gas Jet-Liquid Film Interaction, Experimental Thermal and Fluid Science, Vol 106, September 2019, pp. 48-67 (https://doi.org/10.1016/j.expthermflusci.2019.03.004).
  - M.A. Mendez, D. Hess, B. Watz, J.-M. Buchlin.  Multiscale Proper Orthogonal Decomposition (mPOD) of TR-PIV data: a Case Study on Transient Flows, 13th International Symposium on Particle Image Velocimetry at Munich. An extended version of this article is currently in preparation.
 
-The pre-prints of these articles are available from my RG page: https://www.researchgate.net/profile/Miguel_Mendez5
-
 Currently, this folder contains ffive exercises. Of these, two are done both in Matlab and in Python, while the remaining ones are only available in Matlab. The exercises include 1D and 2D cases with both scalar and vectorial quantities.
 An example of processing on video sequences is currently in preparation.
 
