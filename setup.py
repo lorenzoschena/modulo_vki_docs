@@ -1,14 +1,6 @@
 from distutils.core import setup
 
 setup(
-    name='TowelStuff',
-    version='0.1dev',
-    packages=['towelstuff',],
-    license='Creative Commons Attribution-Noncommercial-Share Alike license',
-    long_description=open('README.txt').read(),
-)
-
-setup(
     name='modulo_vki',
     version='0.1',
     description="MODULO (MODal mULtiscale pOd) is a software developed at the von Karman Institute to perform Multiscale Modal Analysis of numerical and experimental data using the Multiscale Proper Orthogonal Decomposition (mPOD).",
