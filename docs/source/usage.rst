@@ -6,6 +6,6 @@ Start by importing MODULO.
 
 .. code-block:: python
 
-    import modulo
+    import modulo_vki
 
 .. autoclass:: modulo.MODULO
