@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: modulo-vki
-Version: 0.35.9
+Version: 0.0.2
 Summary: MODULO (MODal mULtiscale pOd) is a software developed at the von Karman Institute to perform Multiscale Modal Analysis of numerical and experimental data using the Multiscale Proper Orthogonal Decomposition (mPOD).
 Home-page: https://github.com/lorenzoschena/modulo_vki
 Author: L. Schena
@@ -17,10 +17,13 @@ License-File: LICENSE
 MODULO
 ======
 
+.. image:: https://readthedocs.org/projects/modulo-vki/badge/?version=latest
+
+
 MODULO (MODal mULtiscale pOd) is a software developed at the von Karman Institute to perform Multiscale Modal Analysis of numerical and experimental data using the Multiscale Proper Orthogonal Decomposition (mPOD).
 
 * Free software: 3-clause BSD license
-* Documentation: https://modulo.readthedocs.io/en/latest/.
+* Documentation: https://modulo-vki.readthedocs.io/en/main/.
 
 Features
 --------
