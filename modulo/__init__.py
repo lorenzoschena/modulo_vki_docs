@@ -4,13 +4,13 @@ __version__ = get_versions()['version']
 del get_versions
 
 
-from read_db import *
-from _data_matrix import *
-from _k_matrix import *
-from _utils import *
-from _mpod_time import *
-from _mpod_space import *
-from _pod_time import *
-from _pod_space import *
-from _dft import *
+from modulo.read_db import *
+from modulo._data_matrix import *
+from modulo._k_matrix import *
+from modulo._utils import *
+from modulo._mpod_time import *
+from modulo._mpod_space import *
+from modulo._pod_time import *
+from modulo._pod_space import *
+from modulo._dft import *
 
