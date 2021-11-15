@@ -2,15 +2,14 @@ import os
 
 import numpy as np
 
-from modulo._data_matrix import DataMatrix
-from modulo._k_matrix import CorrelationMatrix
-from modulo._mpod_space import spatial_basis_mPOD
-from modulo._mpod_time import temporal_basis_mPOD
-from modulo._pod_space import Spatial_basis_POD
-from modulo._pod_time import Temporal_basis_POD
-# Add the DMD (11/11/2021, Miguel)
-from modulo._dmd_s import dmd_s
-from modulo._dft import dft_fit
+from _data_matrix import DataMatrix
+from _k_matrix import CorrelationMatrix
+from _mpod_space import spatial_basis_mPOD
+from _mpod_time import temporal_basis_mPOD
+from _pod_space import Spatial_basis_POD
+from _pod_time import Temporal_basis_POD
+from _dmd_s import dmd_s
+from _dft import dft_fit
 import math
 
 from tqdm import tqdm
