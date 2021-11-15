@@ -17,4 +17,5 @@ MODULO Documentation
    single_modules
    release-history
    min_versions
-   next
+   material
+

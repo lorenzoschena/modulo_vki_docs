@@ -9,5 +9,4 @@ Release History
 - Randomised SVD implemented as standard solver for the eigenvalue problems, 
 - *DMD implemented!*
 - Improved printed messages, 
-- Possibility to control the parameter SAT as a self variable of the class. This lets the user control the largest 
-number of modes that will be computed in each scale
+- Possibility to control the parameter SAT as a self variable of the class. This lets the user control the largest number of modes that will be computed in each scale

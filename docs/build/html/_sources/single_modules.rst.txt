@@ -13,5 +13,7 @@ decomposition algorithm.
 
 .. autofunction:: modulo.MODULO._spatial_basis_mPOD
 
+.. autofunction:: modulo.dmd_s
+
 
 
