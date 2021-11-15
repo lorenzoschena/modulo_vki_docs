@@ -1,3 +1,19 @@
+Metadata-Version: 2.1
+Name: modulo-vki
+Version: 1.1.2
+Summary: MODULO (MODal mULtiscale pOd) is a software developed at the von Karman Institute to perform Multiscale Modal Analysis of numerical and experimental data using the Multiscale Proper Orthogonal Decomposition (mPOD).
+Home-page: https://github.com/mendezVKI/MODULO/tree/master/modulo_python_package/
+Author: M. A. Mendez, D. Ninni, L. Schena
+Author-email: lorenzo.schena@vki.ac.be
+License: BSD (3-clause)
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 MODULO
 ======
 
@@ -68,4 +84,6 @@ The do list currently includes:
 1- Finish the exercises in Python and clean the codes.
 
 2- Extend the analysis to cases that do not have Cartesian grids, hence requiring weighted inner products.
+
+
 

@@ -11,4 +11,5 @@ Using ``MODULO`` you are able to compute POD, mPOD or DFT on your data without d
 
 .. autofunction:: modulo.MODULO.compute_DFT
 
+.. autofunction:: modulo.MODULO.compute_DMD
 
